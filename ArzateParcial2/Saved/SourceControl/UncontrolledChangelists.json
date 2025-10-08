@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Controller/BPC_GameplayController.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Blueprints/GM_Gameplay.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Input/IA_Movement.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Input/IMC_Gameplay.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Pawns/BP_MainPlayer.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Input/IA_Mouse.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Input/IA_JumpPlayer.uasset",
+				"C:/Users/USER/Documents/GitHub/ArzataUnrealEngine/ArzateParcial2/Content/Actors/BP_Coin.uasset"
+			]
+		}
+	]
+}
